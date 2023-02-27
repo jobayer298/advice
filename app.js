@@ -36,15 +36,11 @@ const displayAdvice = (advice) =>{
 }
 
 
-
-// window.onload =() =>{
-//     loadAdvice()
-// }
-
-
 const newQuotes = () =>{
     location.reload()
 }
 
 
 loadAdvice()
+
+//finished
